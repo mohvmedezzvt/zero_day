@@ -1,2 +1,2 @@
-#This file is mandatory in projects
-#### This is a uname output on my ubuntu VM
+# 0x00-vagrant
+This directory contains a simple project to get started with using Vagrant.
